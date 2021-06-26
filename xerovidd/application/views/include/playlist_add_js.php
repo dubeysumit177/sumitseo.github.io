@@ -1,0 +1,1 @@
+<script src="<?php echo base_url('assets/js/system/playlist_manager_add.js');?>"></script>

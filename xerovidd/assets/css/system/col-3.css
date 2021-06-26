@@ -1,0 +1,46 @@
+.multi_layout{margin:0;background: #fff}
+.multi_layout .card{margin-bottom:0;border-radius: 0;}
+.multi_layout p, .multi_layout ul:not(.list-unstyled), .multi_layout ol{line-height: 15px;}
+.multi_layout .list-group li{padding: 20px 10px 25px 20px;}
+.multi_layout{border:.5px solid #dee2e6;}
+.multi_layout .collef,.multi_layout .colmid,.multi_layout .colend{padding-left: 0px; padding-right: 0px;}
+.multi_layout .collef,.multi_layout .colmid{border-right: .5px solid #dee2e6;}
+.multi_layout .main_card{min-height: 500px;box-shadow: none;}
+.multi_layout .collef .makeScroll{max-height: 790px;overflow:auto;}
+.multi_layout .colmid .makeScroll{max-height: 790px;overflow:auto;}
+.multi_layout .colend .makeScroll{max-height: 790px;overflow:auto;}
+.multi_layout .list-group{padding-top:6px;}
+.multi_layout .list-group .list-group-item{border-radius: 0;border:.5px solid #dee2e6;border-left:none;border-right:none;cursor: pointer;z-index: 0;}
+.multi_layout .list-group .list-group-item:first-child{border-top:none;}
+.multi_layout .list-group .list-group-item:last-child{border-bottom:none;}
+.multi_layout .list-group .list-group-item.active{border:.5px solid #6777EF;}
+.multi_layout .mCSB_inside > .mCSB_container{margin-right: 0;}
+.multi_layout .card-statistic-1{border-radius: 0;}
+.multi_layout h6.page_name{font-size: 14px;}
+.multi_layout .card .card-header input{max-width: 100% !important;}
+.multi_layout .waiting,.modal_waiting {height: 100%;width:100%;display: table;}
+.multi_layout .waiting i,.modal_waiting i{font-size:60px;display: table-cell; vertical-align: middle;padding:30px 0;}
+.multi_layout .card .card-header h4 a{font-weight: 700 !important;}  
+.product-item .product-name{font-weight: 500;}
+.badge-status{border-color:#eee;}
+.playlist_search_div{cursor: pointer}
+
+::placeholder {
+  color: #ccc !important;
+}
+.smallspace{padding: 10px 0;}
+.lead_first_name,.lead_last_name,.lead_tag_name{background: #fff !important;}
+.ajax-file-upload-statusbar{width: 100% !important;}
+hr{margin-top: 10px;}
+.custom-top-margin{margin-top: 20px;}
+.sync_page_style{margin-top: 8px;}
+.well{background: #fff;}  
+.emojionearea, .emojionearea.form-control{height: 140px !important;}
+.emojionearea.small-height{height: 140px !important;}
+
+.colmid  .playlistImg {margin-top: 10px !important;  }
+@media (max-width: 575.98px){
+	.media.mid-1 .avatar-item { padding-left: 95px !important;  }
+	.d-none { display: none !important; }
+	.list_search { width: 120px !important; }
+}

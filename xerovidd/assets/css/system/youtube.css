@@ -1,0 +1,17 @@
+.check_box{position: absolute !important;top: 0 !important;right: 0 !important;margin: 3px;}
+.check_box_background{position: absolute;height: 60px;width: 60px;top: 0;right: 0;}
+.profile-widget { margin-top: 0;}
+.profile-widget .profile-widget-items:after {content: ' ';position: absolute;bottom: 0;left: 0px;right: 0;height: 1px;background-color: #f2f2f2;}
+.profile-widget .profile-widget-items:before {content: ' ';position: absolute;top: 0;left: 0px;right: 0;height: 1px;background-color: #f2f2f2;}
+.profile-widget .profile-widget-items .profile-widget-item {flex: 1;text-align: center;padding: 10px 0;}
+.article .article-header {overflow: unset !important;}
+.description_info {padding: 20px;line-height: 17px;font-size: 13px;margin: 0;}
+.option_dropdown {position: absolute;top: 0;left: 0;height: 20px;width: 22px;background-color: #f7fefe;border-radius: 24%;padding-top: 0px;margin-top: 3px;margin-left: 3px;border: 1px solid #4e6e7e;}
+.video_option_background{position: absolute;height: 60px;width: 60px;top: 0;left: 0;}
+.selectric .label {min-height: 0 !important;}
+.opt_btn{border-radius: 30px !important;padding-left: 25px !important;padding-right: 25px !important;}
+.generic_message_block textarea{height: 100px !important;}
+.filter_message_block textarea{height: 100px !important;margin-bottom: 30px;}
+.single_card .card-body .form-group{margin-bottom: 10px;}
+.single_card .card-body{padding-bottom: 0 !important;}
+.bootstrap-tagsinput{height: 100px !important;}
